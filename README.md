@@ -1,0 +1,1 @@
+# Sheetmath.Manifest
